@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Vokal va zamonaviy musiqa</string>
+    <string name="nav_header_title">Qobuljon Toshtemirov.</string>
+    <string name="gmail">+998 90 216 55 01</string>
+
+    <string name="dev_name">Xusniddin Orifjonov. Qobuljon Toshtemirov.</string>
+    <string name="dev_gmail">mr.orifjonov@mail.ru. +998 91 788 00 25</string>
+
+
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Sahifa</string>
+    <string name="menu_gallery">Mundarija</string>
+    <string name="menu_slideshow">Dastur haqida</string>
+</resources>
