@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vokall.iml" filepath="$PROJECT_DIR$/.idea/modules/vokall.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/vokall.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/vokall.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/vokall.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/vokall.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/vokall.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/vokall.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/vokall.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/vokall.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bioxilma_xillig.iml" filepath="$PROJECT_DIR$/.idea/modules/bioxilma_xillig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/bioxilma_xillig.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/bioxilma_xillig.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/bioxilma_xillig.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/bioxilma_xillig.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/bioxilma_xillig.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/bioxilma_xillig.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/bioxilma_xillig.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/bioxilma_xillig.app.unitTest.iml" />
     </modules>
   </component>
 </project>

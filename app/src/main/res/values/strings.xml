@@ -1,10 +1,10 @@
 <resources>
-    <string name="app_name">Vokal va zamonaviy musiqa</string>
-    <string name="nav_header_title">Qobuljon Toshtemirov.</string>
-    <string name="gmail">+998 90 216 55 01</string>
+    <string name="app_name">Andijon urbanoflorasiga oid</string>
+    <string name="nav_header_title">Nasibaxon Naraliyeva Mamanovna, Nodirbek Sidiqjanov</string>
+    <string name="gmail">n.sidiqjanov@mail.ru</string>
 
-    <string name="dev_name">Xusniddin Orifjonov. Qobuljon Toshtemirov.</string>
-    <string name="dev_gmail">mr.orifjonov@mail.ru. +998 91 788 00 25</string>
+    <string name="dev_name">Boymatov Mexrojiddin</string>
+    <string name="dev_gmail">boymatovmexrojiddin@gmail.com</string>
 
 
     <string name="nav_header_desc">Navigation header</string>

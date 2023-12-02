@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:background="@drawable/jj4">
+    android:background="@drawable/t1">
 
     <androidx.cardview.widget.CardView
         android:id="@+id/cardView"
@@ -161,7 +161,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:paddingLeft="5dp"
-            android:text="Kitob muallifi"
+            android:text="Kitob mualliflari"
             android:textColor="@color/textview"
             android:textStyle="bold" />
     </LinearLayout>
@@ -252,7 +252,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:paddingLeft="5dp"
-            android:text="Dastur mualliflari"
+            android:text="Dastur muallifi"
             android:textColor="@color/textview"
             android:textStyle="bold" />
     </LinearLayout>

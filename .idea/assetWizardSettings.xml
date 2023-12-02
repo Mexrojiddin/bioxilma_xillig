@@ -8,6 +8,17 @@
             <PersistentState>
               <option name="children">
                 <map>
+                  <entry key="confirmationStep">
+                    <value>
+                      <PersistentState>
+                        <option name="values">
+                          <map>
+                            <entry key="resourceDirectory" value="main" />
+                          </map>
+                        </option>
+                      </PersistentState>
+                    </value>
+                  </entry>
                   <entry key="imageAssetPanel">
                     <value>
                       <PersistentState>
@@ -24,7 +35,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="C:\Users\User\AppData\Local\Temp\ic_android_black_24dp.xml" />
+                                                <entry key="imagePath" value="C:\Users\user\AppData\Local\Temp\ic_android_black_24dp.xml" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -67,7 +78,8 @@
                                           <PersistentState>
                                             <option name="values">
                                               <map>
-                                                <entry key="imagePath" value="C:\Users\User\AppData\Local\Temp\ic_android_black_24dp.xml" />
+                                                <entry key="color" value="000000" />
+                                                <entry key="imagePath" value="C:\Users\user\AppData\Local\Temp\ic_android_black_24dp.xml" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -79,8 +91,8 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="C:\Users\User\Desktop\Maqolalar\Qobiljon domla\123.jpg" />
-                                                <entry key="scalingPercent" value="116" />
+                                                <entry key="imagePath" value="D:\rasmlar\Photos for play market\Andijon urbanoflorasiga oid\1.png" />
+                                                <entry key="scalingPercent" value="32" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -110,6 +122,12 @@
                                       </entry>
                                     </map>
                                   </option>
+                                  <option name="values">
+                                    <map>
+                                      <entry key="backgroundAssetType" value="COLOR" />
+                                      <entry key="backgroundColor" value="ffffff" />
+                                    </map>
+                                  </option>
                                 </PersistentState>
                               </value>
                             </entry>
@@ -124,7 +142,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="C:\Users\User\AppData\Local\Temp\ic_android_black_24dp.xml" />
+                                                <entry key="imagePath" value="C:\Users\user\AppData\Local\Temp\ic_android_black_24dp.xml" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -168,7 +186,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="C:\Users\User\AppData\Local\Temp\ic_android_black_24dp.xml" />
+                                                <entry key="imagePath" value="C:\Users\user\AppData\Local\Temp\ic_android_black_24dp.xml" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -232,7 +250,7 @@
                                           <PersistentState>
                                             <option name="values">
                                               <map>
-                                                <entry key="imagePath" value="C:\Users\User\AppData\Local\Temp\ic_android_black_24dp.xml" />
+                                                <entry key="imagePath" value="C:\Users\user\AppData\Local\Temp\ic_android_black_24dp.xml" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -284,6 +302,11 @@
                 </map>
               </option>
             </PersistentState>
+          </value>
+        </entry>
+        <entry key="vectorWizard">
+          <value>
+            <PersistentState />
           </value>
         </entry>
       </map>
